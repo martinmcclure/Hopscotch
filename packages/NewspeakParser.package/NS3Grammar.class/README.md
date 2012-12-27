@@ -1,0 +1,1 @@
+Grammar of a fileout from Newspeak3. The idea is to get enough grammar to be able to parse a file into Smalltalk classes and methods that are mostly sytactically valid so they can be filed in to Smalltalk, for porting Newspeak code to Smalltalk.
