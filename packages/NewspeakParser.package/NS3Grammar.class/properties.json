@@ -8,7 +8,9 @@
 	"instvars" : [
 		"moduleHeader",
 		"classes",
-		"singleQuotedString" ],
+		"singleQuotedString",
+		"module",
+		"moduleDefinition" ],
 	"name" : "NS3Grammar",
 	"pools" : [
 		 ],
