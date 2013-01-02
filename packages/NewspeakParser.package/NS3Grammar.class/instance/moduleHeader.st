@@ -1,3 +1,3 @@
 productions-module
 moduleHeader
-	^ 'Newspeak3' asParser token , singleQuotedString
+	^ 'Newspeak3' asParser trimSpaces , singleQuotedString

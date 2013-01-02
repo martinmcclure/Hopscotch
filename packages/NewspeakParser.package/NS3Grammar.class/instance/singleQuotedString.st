@@ -1,3 +1,3 @@
 productions-lexing
 singleQuotedString
-	^ ($' asParser , #any asParser star , $' asParser) token
+	^ ($' asParser , ($' asParser not , #any asParser) star , $' asParser) token trimSpaces

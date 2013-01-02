@@ -1,4 +1,3 @@
 productions-module
 moduleDefinition
-
-	^ #any asParser star
+	^ #any asParser star token
