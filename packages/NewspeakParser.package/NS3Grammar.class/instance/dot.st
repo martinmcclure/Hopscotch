@@ -1,0 +1,3 @@
+productions-lexical
+dot
+	^ $. asParser

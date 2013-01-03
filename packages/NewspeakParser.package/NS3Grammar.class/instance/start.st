@@ -1,3 +1,3 @@
 start
 start
-	^ module end
+	^ compilationUnit end
