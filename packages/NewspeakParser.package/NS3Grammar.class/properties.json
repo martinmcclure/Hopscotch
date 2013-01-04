@@ -122,7 +122,8 @@
 		"doubleQuoteComment",
 		"typeAnnotation",
 		"langleBracket",
-		"rangleBracket" ],
+		"rangleBracket",
+		"implicitReceiver" ],
 	"name" : "NS3Grammar",
 	"pools" : [
 		 ],

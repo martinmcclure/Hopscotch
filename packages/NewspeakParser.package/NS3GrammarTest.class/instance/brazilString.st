@@ -3165,7 +3165,7 @@ naturalExtent ^<Point> = (
 	^forcedExtentX ifNil: [visual naturalExtent]
 )
 
-naturalHeightForWidth: width <Number> ^ <Number> = (
+naturalHeightForWidth: width <Number> ^<Number> = (
 
 	^forcedExtentX
 		ifNil: [super naturalHeightForWidth: width]
@@ -8022,7 +8022,7 @@ class Shape = LeafVisual ("Copyright 2008 Cadence Design Systems, Inc.
 	mouseMovedAction
 	|)
 (''accessing-attributes''
-borderColor ^ <Color> = (
+borderColor ^<Color> = (
 
 	^borderColorA value
 )
@@ -9327,7 +9327,7 @@ childRectangleFrom: base <Integer> size: size <Integer> ^<Rectangle> = (
 	subclassResponsibility
 )
 
-computeNaturalHeightForWidth: size <Number> ^ <Number> = (
+computeNaturalHeightForWidth: size <Number> ^<Number> = (
 	
 	subclassResponsibility
 )
