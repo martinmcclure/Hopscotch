@@ -1,3 +1,3 @@
 productions-expressions
 classComment
-	^ whitespace , comment
+	^ spaces , comment , spaces

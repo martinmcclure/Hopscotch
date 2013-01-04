@@ -1,3 +1,3 @@
 productions-expressions
 statementSequence
-	expression , furtherStatements optional
+	^ expression , furtherStatements optional

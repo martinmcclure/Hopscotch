@@ -1,3 +1,3 @@
 productions-lexical
 rcurly
-	^ $} asParser
+	^ $} asParser token , whitespace

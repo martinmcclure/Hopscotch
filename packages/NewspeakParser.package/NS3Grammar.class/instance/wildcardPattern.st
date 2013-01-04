@@ -1,3 +1,3 @@
 productions-expressions
 wildcardPattern
-	^ $_ asParser trimSpaces token
+	^ $_ asParser token , whitespace

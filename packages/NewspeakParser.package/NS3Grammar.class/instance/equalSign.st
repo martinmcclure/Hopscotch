@@ -1,3 +1,3 @@
 productions-lexical
 equalSign
-	^ $= asParser
+	^ $= asParser token , whitespace

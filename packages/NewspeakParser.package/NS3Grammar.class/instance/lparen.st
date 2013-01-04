@@ -1,3 +1,3 @@
 productions-lexical
 lparen
-	^ $( asParser
+	^ $( asParser token , whitespace

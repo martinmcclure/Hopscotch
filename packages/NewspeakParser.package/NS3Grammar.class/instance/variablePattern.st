@@ -1,3 +1,3 @@
 productions-expressions
 variablePattern
-	^ ($? asParser , id) trimSpaces token
+	^ ($? asParser , id) token , whitespace

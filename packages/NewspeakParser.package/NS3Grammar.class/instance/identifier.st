@@ -1,3 +1,3 @@
 productions-lexical
 identifier
-	^ id token
+	^ id token , whitespace

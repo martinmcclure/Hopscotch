@@ -1,3 +1,3 @@
 productions-expressions
 unarySelector
-	^ identifier
+	^ identifier , colon not

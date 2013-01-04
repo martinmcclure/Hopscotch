@@ -117,7 +117,12 @@
 		"kwPatternValue",
 		"variablePattern",
 		"nestedPatternLiteral",
-		"stringBody" ],
+		"stringBody",
+		"spaces",
+		"doubleQuoteComment",
+		"typeAnnotation",
+		"langleBracket",
+		"rangleBracket" ],
 	"name" : "NS3Grammar",
 	"pools" : [
 		 ],

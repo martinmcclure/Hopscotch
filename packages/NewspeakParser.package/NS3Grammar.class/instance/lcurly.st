@@ -1,3 +1,3 @@
 productions-lexical
 lcurly
-	^ ${ asParser
+	^ ${ asParser token , whitespace

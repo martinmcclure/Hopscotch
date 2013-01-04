@@ -1,4 +1,4 @@
 productions-expressions
 classPrefix
-	^ ('class' asParser trimSpaces token , (identifier , messagePattern , equalSign , superclassClause optional))
-		/ ('class' asParser trimSpaces token , (identifier , equalSign , superclassClause optional))
+	^ ('class' asParser token , whitespace , (identifier , messagePattern , equalSign , superclassClause optional))
+		/ ('class' asParser token , whitespace , (identifier , equalSign , superclassClause optional))

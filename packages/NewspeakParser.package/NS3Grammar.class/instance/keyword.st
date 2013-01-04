@@ -1,3 +1,3 @@
 productions-lexical
 keyword
-	^ kw trimSpaces token
+	^ kw token , whitespace

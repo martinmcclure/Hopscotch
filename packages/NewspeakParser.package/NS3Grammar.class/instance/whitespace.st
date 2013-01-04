@@ -1,3 +1,3 @@
 productions-lexical
 whitespace
-	^ #space asParser plus
+	^ (spaces , comment , spaces) plus / #space asParser star

@@ -1,3 +1,3 @@
 productions-lexical
 lbracket
-	^ $[ asParser
+	^ $[ asParser token , whitespace

@@ -1,3 +1,3 @@
 productions-lexical
 setterKeyword
-	^ setterKw trimSpaces token
+	^ setterKw token , whitespace

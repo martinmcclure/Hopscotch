@@ -1,3 +1,3 @@
 productions-lexical
 pound
-	^ $# asParser
+	^ $# asParser token , whitespace

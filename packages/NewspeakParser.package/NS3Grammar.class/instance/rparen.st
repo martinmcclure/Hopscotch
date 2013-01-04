@@ -1,3 +1,3 @@
 productions-lexical
 rparen
-	^ $) asParser
+	^ $) asParser token , whitespace

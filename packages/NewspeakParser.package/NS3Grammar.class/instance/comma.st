@@ -1,3 +1,3 @@
 productions-lexical
 comma
-	^ $, asParser
+	^ $, asParser token , whitespace

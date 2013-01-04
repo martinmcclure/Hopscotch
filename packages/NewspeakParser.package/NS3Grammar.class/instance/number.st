@@ -1,3 +1,3 @@
 productions-expressions
 number
-	^ num trimSpaces token
+	^ num token , whitespace

@@ -1,3 +1,3 @@
 productions-expressions
 symbol
-	^ sym trimSpaces token
+	^ sym token , whitespace

@@ -1,3 +1,3 @@
 productions-lexical
 langleBracket
-	^ $< asParser
+	^ $< asParser token , whitespace
