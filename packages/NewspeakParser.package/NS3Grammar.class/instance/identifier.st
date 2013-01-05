@@ -1,3 +1,3 @@
 productions-lexical
 identifier
-	^ id token , whitespace
+	^ (id token , whitespace) ==> [ :nodes | nodes first value ]

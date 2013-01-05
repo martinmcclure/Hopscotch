@@ -1,0 +1,14 @@
+{
+	"category" : "NewspeakParser-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NS3ParserTest",
+	"pools" : [
+		 ],
+	"super" : "NS3GrammarTest",
+	"type" : "normal" }

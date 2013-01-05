@@ -1,0 +1,14 @@
+{
+	"category" : "NewspeakParser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NSParseNode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
