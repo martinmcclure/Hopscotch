@@ -1,3 +1,3 @@
 productions-lexical
 dot
-	^ $. asParser token , whitespace
+	^ $. asParser flatten , whitespace

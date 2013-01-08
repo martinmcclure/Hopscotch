@@ -1,3 +1,3 @@
 productions-lexical
 setterKeyword
-	^ setterKw token , whitespace
+	^ setterKw flatten , whitespace

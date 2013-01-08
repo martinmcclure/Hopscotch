@@ -1,3 +1,3 @@
 productions-lexical
 dollar
-	^ $$ asParser token , whitespace
+	^ $$ asParser flatten , whitespace

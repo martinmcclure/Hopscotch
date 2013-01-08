@@ -1,3 +1,3 @@
 productions-lexical
 keyword
-	^ kw token , whitespace
+	^ kw flatten , whitespace

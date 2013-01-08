@@ -1,3 +1,3 @@
 productions-lexical
 slash
-	^ $/ asParser token , whitespace
+	^ $/ asParser flatten , whitespace

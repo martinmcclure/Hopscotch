@@ -7,6 +7,6 @@ classHeader
 			commentWhitespace := (nodes at: 2) at: 2.
 			commentString := commentWhitespace size >= 1
 				ifFalse: [ '' ]
-				ifTrue: [ (commentWhitespace at: 1) at: 2 ].
+				ifTrue: [ commentWhitespace ].
 			result at: 2 put: commentString.
 			result ]

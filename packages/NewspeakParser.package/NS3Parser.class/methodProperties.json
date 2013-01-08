@@ -2,16 +2,20 @@
 	"class" : {
 		 },
 	"instance" : {
-		"block" : "MartinMcClure 1/4/2013 18:58",
 		"category" : "MartinMcClure 1/4/2013 18:16",
 		"classDeclaration" : "MartinMcClure 1/4/2013 18:23",
-		"classHeader" : "MartinMcClure 1/4/2013 18:04",
+		"classHeader" : "MartinMcClure 1/7/2013 18:55",
 		"classPrefix" : "MartinMcClure 1/4/2013 17:51",
 		"classSideDecl" : "MartinMcClure 1/4/2013 17:18",
+		"codeBody" : "MartinMcClure 1/7/2013 18:15",
 		"implicitReceiver" : "MartinMcClure 1/4/2013 18:39",
 		"literal" : "MartinMcClure 1/4/2013 18:58",
 		"messagePattern" : "MartinMcClure 1/4/2013 18:33",
 		"methodDecl" : "MartinMcClure 1/4/2013 18:31",
 		"nestedClassDecl" : "MartinMcClure 1/4/2013 17:20",
 		"sideDecl" : "MartinMcClure 1/4/2013 17:23",
-		"superclassClause" : "MartinMcClure 1/4/2013 17:41" } }
+		"sourceFromNodes:" : "MartinMcClure 1/7/2013 18:18",
+		"superclassClause" : "MartinMcClure 1/4/2013 17:41",
+		"temporaries" : "MartinMcClure 1/7/2013 17:15",
+		"unarySelector" : "MartinMcClure 1/7/2013 16:58",
+		"writeSourceNodes:onStream:" : "MartinMcClure 1/7/2013 18:21" } }

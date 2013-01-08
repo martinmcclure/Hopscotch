@@ -1,3 +1,3 @@
 productions-lexical
 semicolon
-	^ $; asParser token , whitespace
+	^ $; asParser flatten , whitespace

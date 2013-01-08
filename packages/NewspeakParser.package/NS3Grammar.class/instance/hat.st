@@ -1,3 +1,3 @@
 productions-lexical
 hat
-	^ $^ asParser token , whitespace
+	^ $^ asParser flatten , whitespace
