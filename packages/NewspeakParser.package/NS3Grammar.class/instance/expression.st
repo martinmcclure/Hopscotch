@@ -1,3 +1,3 @@
-productions-expressions
+grammar
 expression
-	^ setterKeyword optional , cascadedMessageExpression
+	^ setterKeyword star , sendExpression

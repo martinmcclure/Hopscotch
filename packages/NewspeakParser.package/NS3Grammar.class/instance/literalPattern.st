@@ -1,3 +1,3 @@
-productions-expressions
+grammar
 literalPattern
-	^ number token / symbolConstant / characterConstant / string / tuple
+	^ tokenFor , (number / symbolConstant / characterConstant / string / tuple)

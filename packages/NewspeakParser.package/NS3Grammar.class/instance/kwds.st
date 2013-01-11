@@ -1,3 +1,3 @@
 productions-lexical
-kws
+kwds
 	^ kw plus

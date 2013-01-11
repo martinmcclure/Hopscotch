@@ -1,6 +1,3 @@
-productions-lexical
+grammar
 string
-	"Does not yet handle doubling of single quotes -- if indeed it ever needs to."
-
-	^ (($' asParser , ($' asParser not , #any asParser) star , $' asParser) flatten , whitespace)
-		==> [ :nodes | nodes at: 1 ]
+	^ tokenFor , str

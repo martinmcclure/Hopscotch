@@ -1,3 +1,3 @@
-productions-expressions
+grammar
 primary
-	^ "unarySelector /"   literal / block / parenthesizedExpression / implicitReceiver
+	^ slotName / literal / block / parenthesizedExpression

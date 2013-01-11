@@ -1,3 +1,3 @@
-productions-lexical
+grammar
 dollar
-	^ $$ asParser flatten , whitespace
+	^ tokenFor , $$ asParser

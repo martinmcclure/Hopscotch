@@ -1,3 +1,3 @@
-productions-lexical
+grammar
 colon
-	^ $: asParser flatten , whitespace
+	^ tokenFor , $: asParser

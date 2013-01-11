@@ -1,3 +1,3 @@
-productions-lexical
+grammar
 comma
-	^ $, asParser flatten , whitespace
+	^ tokenFor , $, asParser

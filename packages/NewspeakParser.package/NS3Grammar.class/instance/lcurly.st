@@ -1,3 +1,3 @@
-productions-lexical
-lcurly
-	^ ${ asParser flatten , whitespace
+grammar
+lcurly 
+	^ tokenFor , ${ asParser

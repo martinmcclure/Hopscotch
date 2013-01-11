@@ -1,3 +1,3 @@
-productions-lexical
-langleBracket
-	^ $< asParser flatten , whitespace
+grammar
+langleBracket 
+	^ tokenFor , $< asParser

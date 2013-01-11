@@ -1,3 +1,3 @@
-productions-lexical
+grammar
 slash
-	^ $/ asParser flatten , whitespace
+	^ tokenFor , $/ asParser

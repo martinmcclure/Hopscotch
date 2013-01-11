@@ -1,3 +1,5 @@
-productions-expressions
+grammar
 slotDef
-	^ accessModifier optional , slotDecl , (equalSign / '::=' asParser token , whitespace , expression , dot) optional
+	^ accessModifier optional , slotDecl , 
+		(tokenFor , ('=' asParser / '::=' asParser) , expression , dot) 
+			optional

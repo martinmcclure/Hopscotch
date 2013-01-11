@@ -1,3 +1,3 @@
-productions-lexical
+grammar
 whitespace
-	^ ((spaces , comment , spaces) plus / #space asParser star) flatten
+	^space  plus

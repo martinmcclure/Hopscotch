@@ -1,3 +1,3 @@
-productions-lexical
-hat
-	^ $^ asParser flatten , whitespace
+grammar
+hat 
+	^ tokenFor , $^ asParser

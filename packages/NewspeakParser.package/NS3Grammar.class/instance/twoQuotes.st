@@ -1,0 +1,3 @@
+grammar
+twoQuotes 
+	^ $' asParser , $' asParser

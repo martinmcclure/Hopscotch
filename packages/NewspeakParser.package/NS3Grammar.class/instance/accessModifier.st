@@ -1,3 +1,3 @@
-productions-expressions
+grammar
 accessModifier
-	^ 'private' asParser / 'public' asParser / 'protected' asParser , whitespace
+	^ tokenFor , ('private' asParser / 'public' asParser / 'protected' asParser), whitespace 

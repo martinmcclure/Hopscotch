@@ -2,4 +2,4 @@ productions-expressions
 implicitReceiver
 	"No text"
 
-	^ '' asParser
+	^ '' asParser , nontrivialUnaryMessages and

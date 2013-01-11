@@ -1,0 +1,3 @@
+grammar
+keywordAndLiteral
+	^ keyword , literal

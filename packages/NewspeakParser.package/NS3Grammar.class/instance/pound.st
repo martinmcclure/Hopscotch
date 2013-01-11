@@ -1,3 +1,3 @@
-productions-lexical
+grammar
 pound
-	^ $# asParser flatten , whitespace
+	^ tokenFor , $# asParser

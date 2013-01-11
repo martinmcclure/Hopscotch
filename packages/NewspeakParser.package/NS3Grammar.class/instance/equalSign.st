@@ -1,3 +1,3 @@
-productions-lexical
-equalSign
-	^ $= asParser flatten , whitespace
+grammar
+equalSign 
+	^ tokenFor , $= asParser

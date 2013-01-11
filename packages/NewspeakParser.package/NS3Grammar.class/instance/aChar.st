@@ -1,3 +1,3 @@
-productions-expressions
+grammar
 aChar
-	^ $$ asParser , #any asParser
+	^ $$ asParser , ( character / $' asParser / $" asParser / $  asParser )

@@ -1,3 +1,3 @@
-productions-lexical
+grammar
 setterKeyword
-	^ setterKw flatten , whitespace
+	^ tokenFor ,  setterKw

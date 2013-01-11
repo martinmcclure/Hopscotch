@@ -1,0 +1,3 @@
+grammar
+endNSComment
+	^ tokenFor , '*)' asParser

@@ -1,3 +1,3 @@
-productions-expressions
+grammar
 messagePattern
-	^ binaryMsgPattern / keywordMsgPattern / unaryMsgPattern
+	^ unaryMsgPattern / binaryMsgPattern / keywordMsgPattern

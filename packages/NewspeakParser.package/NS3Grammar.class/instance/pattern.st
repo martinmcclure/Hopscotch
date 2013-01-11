@@ -1,3 +1,3 @@
-productions-expressions
+grammar
 pattern
-	^ ($< asParser , whitespace , patternLiteral , $> asParser) token , whitespace
+	^ tokenFor , $< asParser , patternLiteral , tokenFor , $> asParser

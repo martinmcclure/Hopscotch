@@ -1,3 +1,3 @@
 productions-expressions
 sym
-	^ str / kws / binSel / id
+	^ str / kwds / binSel / id

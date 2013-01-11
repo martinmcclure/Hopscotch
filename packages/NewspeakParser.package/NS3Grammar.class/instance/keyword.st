@@ -1,3 +1,3 @@
-productions-lexical
+grammar
 keyword
-	^ kw flatten , whitespace
+	^ tokenFor ,  kw

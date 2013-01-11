@@ -1,3 +1,3 @@
-productions-lexical
+grammar
 identifier
-	^ (id token , whitespace) ==> [ :nodes | nodes first value ]
+	^ tokenFor , id

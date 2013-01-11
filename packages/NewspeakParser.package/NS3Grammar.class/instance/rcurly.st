@@ -1,3 +1,3 @@
-productions-lexical
+grammar
 rcurly
-	^ $} asParser flatten , whitespace
+	^ tokenFor , $} asParser

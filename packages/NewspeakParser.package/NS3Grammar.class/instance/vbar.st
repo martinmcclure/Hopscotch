@@ -1,3 +1,3 @@
-productions-lexical
+grammar
 vbar
-	^ $| asParser flatten , whitespace
+	^ tokenFor , $| asParser

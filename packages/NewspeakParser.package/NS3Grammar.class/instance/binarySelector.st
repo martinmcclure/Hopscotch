@@ -1,3 +1,3 @@
-productions-lexical
+grammar
 binarySelector
-	^ binSel flatten , whitespace
+	^ tokenFor , binSel 
