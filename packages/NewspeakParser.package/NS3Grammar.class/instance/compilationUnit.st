@@ -1,3 +1,3 @@
-productions-compilationUnit
+grammar
 compilationUnit
-	^ languageId, toplevelClass
+	^ languageId , toplevelClass

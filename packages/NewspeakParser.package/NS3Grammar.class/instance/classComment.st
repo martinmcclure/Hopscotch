@@ -1,3 +1,3 @@
-productions-expressions
+grammar
 classComment
-	^ spaces , comment , spaces
+	^ whitespace optional , comment

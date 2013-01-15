@@ -1,3 +1,3 @@
-productions-compilationUnit
+grammar
 classCategory
-	^ string
+	^ string optional

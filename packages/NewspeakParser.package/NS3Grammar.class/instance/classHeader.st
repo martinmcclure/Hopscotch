@@ -1,3 +1,3 @@
-productions-expressions
+grammar
 classHeader
-	^ classPrefix , lparen , classComment optional , slotDecls optional , initExprs , rparen
+	^ (identifier, messagePattern optional , equalSign, superclassClause optional , lparen,  classComment optional , slotDecls optional , initExprs,  rparen) 

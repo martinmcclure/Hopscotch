@@ -1,0 +1,3 @@
+grammar
+methodDef
+	^ methodDecl / method

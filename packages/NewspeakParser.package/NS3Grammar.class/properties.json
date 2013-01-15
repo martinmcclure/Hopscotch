@@ -142,7 +142,10 @@
 		"keywordAndLiteral",
 		"literalMessage",
 		"literalMessageComment",
-		"method" ],
+		"method",
+		"methodDef",
+		"optionalFactorySection",
+		"mixinApplication" ],
 	"name" : "NS3Grammar",
 	"pools" : [
 		 ],

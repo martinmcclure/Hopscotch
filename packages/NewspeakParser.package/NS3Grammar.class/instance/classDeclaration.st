@@ -1,3 +1,3 @@
-productions-expressions
+grammar
 classDeclaration
-	^ classHeader , sideDecl , classSideDecl optional
+	^ tokenFor , 'class' asParser , classHeader , sideDecl , classSideDecl optional
