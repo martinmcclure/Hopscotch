@@ -1,3 +1,3 @@
-productions-expressions
+grammar
 keywordMsgPattern
 	^ (keyword , slotDecl) plus

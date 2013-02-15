@@ -1,3 +1,3 @@
-productions-lexical
+grammar
 binSel
 	^ specialCharacter / $- asParser , specialCharacter star

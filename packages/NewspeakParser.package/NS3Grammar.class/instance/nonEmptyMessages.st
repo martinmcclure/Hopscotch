@@ -1,3 +1,3 @@
-productions-expressions
+grammar
 nonEmptyMessages
 	^ nontrivialUnaryMessages / nontrivialBinaryMessages / keywordMessages

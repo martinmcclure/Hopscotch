@@ -1,3 +1,3 @@
-productions-expressions
+grammar
 seqSlotDecls
 	^ vbar , slotDefs , vbar

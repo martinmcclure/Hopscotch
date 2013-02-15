@@ -1,3 +1,3 @@
-productions-lexical
+grammar
 letter
 	^ #letter asParser

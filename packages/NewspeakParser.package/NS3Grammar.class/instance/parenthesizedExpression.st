@@ -1,3 +1,3 @@
-productions-expressions
+grammar
 parenthesizedExpression
 	^ lparen , expression , rparen

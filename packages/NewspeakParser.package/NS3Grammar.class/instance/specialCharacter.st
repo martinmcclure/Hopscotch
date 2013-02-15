@@ -1,4 +1,4 @@
-productions-lexical
+grammar
 specialCharacter
 	| chars p |
 	chars := '+/\*~<>=@%|&?!,'.

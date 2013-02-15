@@ -1,3 +1,3 @@
-productions-expressions
+grammar
 patternLiteral
 	^ wildcardPattern / literalPattern / keywordPattern

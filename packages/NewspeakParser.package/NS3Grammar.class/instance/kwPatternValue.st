@@ -1,3 +1,3 @@
-productions-expressions
+grammar
 kwPatternValue
 	^ wildcardPattern / literalPattern / variablePattern / nestedPatternLiteral

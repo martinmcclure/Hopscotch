@@ -1,3 +1,3 @@
-productions-compilationUnit
+grammar
 toplevelClass
 	^ classCategory , classDeclaration

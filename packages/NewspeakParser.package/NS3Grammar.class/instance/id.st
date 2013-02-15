@@ -1,3 +1,3 @@
-productions-lexical
+grammar
 id
 	^ letter / underscore , (letter / digit / underscore) star

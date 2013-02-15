@@ -1,3 +1,3 @@
-productions-expressions
+grammar
 blockParameter
 	^ colon , slotDecl

@@ -1,3 +1,3 @@
-productions-expressions
+grammar
 sym
 	^ str / kwds / binSel / id
