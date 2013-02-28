@@ -1,0 +1,27 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"arg" : "MartinMcClure 2/27/2013 18:44",
+		"blockType" : "MartinMcClure 2/27/2013 19:25",
+		"for" : "MartinMcClure 2/27/2013 18:44",
+		"generic" : "MartinMcClure 2/27/2013 18:45",
+		"inheritedTypeOf" : "MartinMcClure 2/27/2013 18:45",
+		"is" : "MartinMcClure 2/27/2013 18:45",
+		"mssg" : "MartinMcClure 2/27/2013 18:45",
+		"nonEmptyBlockTypeArgList" : "MartinMcClure 2/27/2013 19:35",
+		"of" : "MartinMcClure 2/27/2013 18:46",
+		"parenthesizedTypeExpression" : "MartinMcClure 2/27/2013 18:49",
+		"receiverType" : "MartinMcClure 2/27/2013 18:46",
+		"returnType" : "MartinMcClure 2/27/2013 18:47",
+		"start" : "MartinMcClure 2/27/2013 18:41",
+		"subtypeOf" : "MartinMcClure 2/27/2013 18:47",
+		"tupleType" : "MartinMcClure 2/27/2013 19:26",
+		"type" : "MartinMcClure 2/27/2013 18:48",
+		"typeArg" : "MartinMcClure 2/27/2013 18:47",
+		"typeArguments" : "MartinMcClure 2/27/2013 19:27",
+		"typeExpr" : "MartinMcClure 2/27/2013 18:50",
+		"typeFactor" : "MartinMcClure 2/27/2013 18:49",
+		"typePrimary" : "MartinMcClure 2/27/2013 18:48",
+		"typeTerm" : "MartinMcClure 2/27/2013 18:50",
+		"where" : "MartinMcClure 2/27/2013 18:47" } }

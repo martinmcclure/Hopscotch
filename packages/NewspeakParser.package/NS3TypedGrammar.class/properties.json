@@ -1,0 +1,35 @@
+{
+	"category" : "NewspeakParser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"arg",
+		"for",
+		"generic",
+		"inheritedTypeOf",
+		"is",
+		"mssg",
+		"of",
+		"receiverType",
+		"subtypeOf",
+		"typeArg",
+		"where",
+		"returnType",
+		"type",
+		"typePrimary",
+		"typeFactor",
+		"parenthesizedTypeExpression",
+		"typeTerm",
+		"typeExpr",
+		"typeArguments",
+		"blockType",
+		"tupleType",
+		"nonEmptyBlockTypeArgList" ],
+	"name" : "NS3TypedGrammar",
+	"pools" : [
+		 ],
+	"super" : "NS3Grammar",
+	"type" : "normal" }

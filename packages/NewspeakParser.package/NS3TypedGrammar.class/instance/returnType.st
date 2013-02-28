@@ -1,0 +1,3 @@
+grammar
+returnType
+	^ hat , type
