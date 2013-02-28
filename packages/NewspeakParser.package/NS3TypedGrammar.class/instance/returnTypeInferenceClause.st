@@ -1,0 +1,3 @@
+grammar
+returnTypeInferenceClause 
+	^ of, msgSelector.

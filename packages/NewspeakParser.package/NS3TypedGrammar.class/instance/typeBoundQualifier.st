@@ -1,0 +1,3 @@
+grammar
+typeBoundQualifier 
+	^ subtypeOf / inheritedTypeOf.

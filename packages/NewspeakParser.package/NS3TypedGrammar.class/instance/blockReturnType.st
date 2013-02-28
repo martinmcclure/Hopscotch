@@ -1,0 +1,3 @@
+grammar
+blockReturnType 
+	^ hat, typeExpr.
