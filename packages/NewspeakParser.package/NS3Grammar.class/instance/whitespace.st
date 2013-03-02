@@ -1,3 +1,3 @@
 grammar
 whitespace
-	^space  plus
+	^#space asParser plus

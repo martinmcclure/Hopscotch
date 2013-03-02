@@ -1,3 +1,3 @@
 grammar
 literalMessageComment
-	^ beginNSComment ,(tokenFor , ':literalmessage:' asParser) , whitespace opt , literalMessage , endNSComment
+	^ beginNSComment ,(tokenFor , ':literalmessage:' asParser) , whitespace optional , literalMessage , endNSComment

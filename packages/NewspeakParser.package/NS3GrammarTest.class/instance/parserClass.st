@@ -1,3 +1,3 @@
 accessing
 parserClass
-	^ NS3Grammar
+	^ NS3TypedGrammar
