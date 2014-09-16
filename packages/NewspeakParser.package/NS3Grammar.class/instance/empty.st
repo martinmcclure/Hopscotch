@@ -1,0 +1,3 @@
+grammar
+empty
+	^ nil asParser

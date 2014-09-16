@@ -10,5 +10,5 @@
 	"name" : "NS3Parser",
 	"pools" : [
 		 ],
-	"super" : "NS3Grammar",
+	"super" : "NS3TypedGrammar",
 	"type" : "normal" }

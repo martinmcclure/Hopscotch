@@ -8,4 +8,7 @@ writeSourceNodes: nodes onStream: stream
 				ifFalse: [ 
 					node isString
 						ifTrue: [ stream nextPutAll: node ]
-						ifFalse: [ self writeSourceNodes: node onStream: stream ] ] ]
+						ifFalse: [ 
+							node isCharacter
+								ifTrue: [ stream nextPut: node ]
+								ifFalse: [ self writeSourceNodes: node onStream: stream ] ] ] ]

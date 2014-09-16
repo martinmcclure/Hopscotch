@@ -142,7 +142,8 @@
 		"methodDef",
 		"optionalFactorySection",
 		"mixinApplication",
-		"methodHeader" ],
+		"methodHeader",
+		"empty" ],
 	"name" : "NS3Grammar",
 	"pools" : [
 		 ],

@@ -1,2 +1,2 @@
 SystemOrganization addCategory: #NewspeakParser!
-SystemOrganization addCategory: #'NewspeakParser-Tests'!
+SystemOrganization addCategory: 'NewspeakParser-Tests'!
