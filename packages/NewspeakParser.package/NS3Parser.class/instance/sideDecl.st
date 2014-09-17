@@ -1,8 +1,6 @@
-productions
+grammar
 sideDecl
 	^ super sideDecl
 		==> [ :nodes | 
-			OrderedCollection new
-				addAll: (nodes at: 2);
-				addAll: (nodes at: 3);
-				yourself ]
+			{(nodes at: 2).
+			(nodes at: 3)} ]

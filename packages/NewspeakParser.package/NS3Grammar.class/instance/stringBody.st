@@ -1,3 +1,3 @@
 grammar
 stringBody
-	^ ($' asParser not , #any asParser) star
+	^ ($' asParser not , #any asParser) star flatten

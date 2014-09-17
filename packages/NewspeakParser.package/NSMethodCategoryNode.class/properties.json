@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"messagePattern",
-		"source" ],
-	"name" : "NSMethodNode",
+		"name",
+		"methods" ],
+	"name" : "NSMethodCategoryNode",
 	"pools" : [
 		 ],
 	"super" : "NSParseNode",

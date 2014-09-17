@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"messagePattern",
-		"source" ],
-	"name" : "NSMethodNode",
+		"languageId",
+		"topLevelClass" ],
+	"name" : "NSCompilationUnitNode",
 	"pools" : [
 		 ],
 	"super" : "NSParseNode",

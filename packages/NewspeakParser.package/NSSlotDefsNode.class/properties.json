@@ -6,9 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"messagePattern",
-		"source" ],
-	"name" : "NSMethodNode",
+		"slotDefs" ],
+	"name" : "NSSlotDefsNode",
 	"pools" : [
 		 ],
 	"super" : "NSParseNode",

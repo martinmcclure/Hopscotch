@@ -1,3 +1,3 @@
 grammar
 comment
-	^ beginComment , commentBody , endComment
+	^ (beginComment , commentBody , endComment) flatten

@@ -1,12 +1,9 @@
-productions
+grammar
 classHeader
 	^ super classHeader
 		==> [ :nodes | 
-			| result commentWhitespace commentString |
-			result := nodes copy.	"Dive for the class comment"
-			commentWhitespace := (nodes at: 6) at: 2.
-			commentString := commentWhitespace size >= 1
-				ifFalse: [ '' ]
-				ifTrue: [ commentWhitespace ].
-			result at: 2 put: commentString.
-			result ]
+			{(nodes at: 1).	"Class name"
+			(nodes at: 4).	"Superclass name"
+			(nodes at: 6).	"Class comment"
+			(nodes at: 7).	"Slots"
+			(nodes at: 8)	"initExprs"} ]

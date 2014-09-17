@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"name",
-		"methods" ],
-	"name" : "NSCategoryNode",
+		"classCategoryString",
+		"classDeclaration" ],
+	"name" : "NSTopLevelClassNode",
 	"pools" : [
 		 ],
 	"super" : "NSParseNode",

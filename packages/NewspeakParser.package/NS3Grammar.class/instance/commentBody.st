@@ -1,3 +1,3 @@
 grammar
 commentBody
-	^ (endComment not , #any asParser) star
+	^ (endComment not , #any asParser) star flatten
