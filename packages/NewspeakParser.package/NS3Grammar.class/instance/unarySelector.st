@@ -1,3 +1,3 @@
 grammar
 unarySelector
-	^ identifier , colon not
+	^ (identifier , colon not) flatten

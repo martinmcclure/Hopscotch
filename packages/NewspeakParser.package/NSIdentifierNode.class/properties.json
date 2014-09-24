@@ -1,0 +1,14 @@
+{
+	"category" : "NewspeakParser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MartinMcClure 9/23/2014 15:56",
+	"instvars" : [
+		"name" ],
+	"name" : "NSIdentifierNode",
+	"pools" : [
+		 ],
+	"super" : "NSParseNode",
+	"type" : "normal" }

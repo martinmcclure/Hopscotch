@@ -1,0 +1,15 @@
+{
+	"category" : "NewspeakParser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"setterKeywords",
+		"sendExpression" ],
+	"name" : "NSExpressionNode",
+	"pools" : [
+		 ],
+	"super" : "NSParseNode",
+	"type" : "normal" }

@@ -1,3 +1,3 @@
 grammar
 temporaries
-	^ slotDecls
+	^ slotDecls flatten

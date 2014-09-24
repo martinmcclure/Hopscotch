@@ -1,0 +1,14 @@
+{
+	"category" : "NewspeakParser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NSKwNode",
+	"pools" : [
+		 ],
+	"super" : "NSIdentifierNode",
+	"type" : "normal" }

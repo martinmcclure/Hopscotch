@@ -1,3 +1,3 @@
 grammar
 literal
-	^ pattern / number / symbolConstant / characterConstant / string / tuple
+	^ (pattern / number / symbolConstant / characterConstant / string / tuple) flatten

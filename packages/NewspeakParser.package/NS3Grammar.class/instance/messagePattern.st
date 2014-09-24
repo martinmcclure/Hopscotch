@@ -1,3 +1,3 @@
 grammar
 messagePattern
-	^ unaryMsgPattern / binaryMsgPattern / keywordMsgPattern
+	^ (unaryMsgPattern / binaryMsgPattern / keywordMsgPattern) flatten
